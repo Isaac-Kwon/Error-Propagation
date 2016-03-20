@@ -63,3 +63,10 @@ Need Symbolic Math Toolbox
 
 ## Reference
  - Physics Textbook Commitee on Pusan National University, General Physics Experiment, Chungmungak (부산대학교물리학교재편찬위원회, 일반물리학실험, 청문각)
+
+
+
+#### FIXPOINT
+points un-convinient will be fixed.
+ - 자동으로 변수명 찾기 - 열 위치에 구애받지 않는 배치 : automatic variable finder
+ - 콘솔변수입력 : console variable input - not hard coding @ m-file
