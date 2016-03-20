@@ -14,7 +14,7 @@ Need Symbolic Math Toolbox
   - you shoun't put the constant data (always same at experiment - like Gravity acceleration)
 
   For Example <br>
-  if the data is below table,
+  if the data is below table,<br>
   Variable name : a b
 
   | a | b |
