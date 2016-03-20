@@ -58,7 +58,7 @@ Need Symbolic Math Toolbox
  - If the variable 'filename' exist on the workspace the console will request input to open the .mat file.
  
 3. Code will calculate.
- - Check the Table is the variable's order right.
+ - Check the Table variable's order right.
  - If not, change the order of column of data. ('VariableSetting.m' 's Data, constantData, errorData)
 
 ## Reference
