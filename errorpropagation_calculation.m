@@ -1,4 +1,6 @@
 %Calculation code of Error Propagation // Need Symbolic Math Toolbox
+%Isaac Kwon, Physics, Pusan National University
+%https://github.com/Isaac-Kwon/Error-Propagation
 
 exist filename 
 i = ans
