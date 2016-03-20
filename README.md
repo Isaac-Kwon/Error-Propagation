@@ -62,4 +62,4 @@ Need Symbolic Math Toolbox
  - If not, change the order of column of data. ('VariableSetting.m' 's Data, constantData, errorData)
 
 ## Reference
- - Physics Book Commitee on Pusan National University, General Physics Experiment, Chungmungak (부산대학교물리학교재편찬위원회, 일반물리학실험, 청문각)
+ - Physics Textbook Commitee on Pusan National University, General Physics Experiment, Chungmungak (부산대학교물리학교재편찬위원회, 일반물리학실험, 청문각)
