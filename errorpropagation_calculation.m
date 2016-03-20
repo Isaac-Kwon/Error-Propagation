@@ -128,7 +128,7 @@ T2 = table(Orical',Datasum','VariableNames',{'Calculation','Error'});
 fprintf('\n\n\t Calculated Data\n\n')
 disp(T2)
 
-OriginalData = T
-CalculationData = T2
+OriginalData = T;
+CalculationData = T2;
 
 clearvars -except OriginalData CalculationData filename
