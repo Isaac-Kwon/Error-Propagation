@@ -51,10 +51,15 @@ Need Symbolic Math Toolbox
 ### How to run the main code
 
 1. Run the code 'errorpropagation_calculation.m'
+
 2. Input the filename (.mat) you saved before.
  - do not type with filename extension(.mat)
  - If input null, will load 'variablefile.mat'
  - If the variable 'filename' exist on the workspace the console will request input to open the .mat file.
+ 
 3. Code will calculate.
  - Check the Table is the variable's order right.
  - If not, change the order of column of data. ('VariableSetting.m' 's Data, constantData, errorData)
+
+## Reference
+ - Physics Book Commitee on Pusan National University, General Physics Experiment, Chungmungak (부산대학교물리학교재편찬위원회, 일반물리학실험, 청문각)
