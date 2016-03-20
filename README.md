@@ -7,7 +7,7 @@ Need Symbolic Math Toolbox
 1. Set the Variables and Data, Fomula (by 'VariableSetting.m')
 2. Run the 'errorpropagation_calculation.m'
 
-## How to set variable
+### How to set variable
 
 1. Open 'VariableSetting.m'
 2. Put in the Data(VariableName : Data) <br>
@@ -40,3 +40,21 @@ Need Symbolic Math Toolbox
 5. Write the fomula. (symbolic fomula)
 
 6. Put all symbolic variable used at (process 5)'s fomula. 
+
+7. Run the Code 'VariableSetting.m'
+
+8. input the proper filename to save MATLAB Workspace's Variables
+ - You don't have to choose the filename
+ - If input null, will save 'variablefile.mat'
+ - you must'nt type with the filename extension(.mat), the code will attach that.
+
+### How to run the main code
+
+1. Run the code 'errorpropagation_calculation.m'
+2. Input the filename (.mat) you saved before.
+ - do not type with filename extension(.mat)
+ - If input null, will load 'variablefile.mat'
+ - If the variable 'filename' exist on the workspace the console will request input to open the .mat file.
+3. Code will calculate.
+ - Check the Table is the variable's order right.
+ - If not, change the order of column of data. ('VariableSetting.m' 's Data, constantData, errorData)
