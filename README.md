@@ -67,7 +67,7 @@ Need Symbolic Math Toolbox
 
 
 #### FIXPOINT
-points un-convinient will be fixed.
+points uncomfortable will be fixed.
  - 자동으로 변수명 찾기 - 열 위치에 구애받지 않는 배치 : automatic variable finder
  - 콘솔변수입력 : console variable input - not hard coding @ m-file
  - README.md 보충 : README.md elaborate
