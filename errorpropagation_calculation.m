@@ -133,4 +133,4 @@ disp(T2)
 OriginalData = T;
 CalculationData = T2;
 
-clearvars -except OriginalData CalculationData filename
+clearvars -except OriginalData CalculationData filename Data

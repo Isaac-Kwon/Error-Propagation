@@ -1,9 +1,9 @@
-%Sample of Variable Setting for Calculation code of Error Propagation // Need Symbolic Math Toolbox
+%Variable Setting for Calculation code of Error Propagation // Need Symbolic Math Toolbox
 %Isaac Kwon, Physics, Pusan National University
 %https://github.com/Isaac-Kwon/Error-Propagation
 
 clc
-%clearvars -except Data
+clear
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -11,17 +11,17 @@ clc
 
 
 Data = ...
-    [129,28,23.9600000000000;310,33,23.9600000000000;478,38,23.9600000000000];
+    [     ]; % put the variable data
 
-constantData = { 4.032 [] 0.023875 [] [] 0.2200 9.8100 203 };
+constantData = {  }; % put the constant data
 
-errorData = [ 0.002 1 (1/4000) 0.5 0.5 0.005 0.0005 1 ];
+errorData = [ ]; % put the systemic error
 
 
 
-syms M R N m Tf Ti c g
+syms   % put symbolic variable
 
-f = (M*g*R*(2*pi*N))/(m*c*(Tf-Ti));
+f =  ; %put symbolic fomula
 
 
 
